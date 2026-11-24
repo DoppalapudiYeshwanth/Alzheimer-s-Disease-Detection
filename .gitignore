@@ -1,0 +1,6 @@
+data/
+outputs/
+runs/
+models/yolo11n.pt
+__pycache__/
+*.pyc
